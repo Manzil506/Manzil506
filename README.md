@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Manzil506
-- 👀 I’m interested in Python, UX/UI
-- 🌱 I’m currently learning Web dev
+- 👀 I’m interested in React, UX/UI
 - 💞️ I’m looking to collaborate on Web dev
 - 📫 How to reach me manzilmeher6969@gmail.com
 
